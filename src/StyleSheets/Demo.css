@@ -1,0 +1,130 @@
+.container > div, .try1 {
+    display: flex;
+    justify-content:center;
+}
+.btm > div {
+    margin: 10px;
+}
+.demo {
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+.demo1 {
+    display: flex;
+    justify-content: flex-start;
+}
+.demo2 {
+    width: 150px;
+    height: 180px;
+}
+.lf {
+    display: flex;
+    justify-content:space-evenly;
+}
+.demo3 {
+    margin-right: 15px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 50%;
+    box-shadow: 20px 20px 20px  black;
+    background-color: rgba(235, 229, 229, 0.925);
+}
+.demo4 {
+    flex-wrap: wrap;
+}
+.demo5 {
+    margin-bottom: 60px;
+}
+.demo6 {
+    display: flex;
+}
+.demo7 > div, .demo7 > h4 {
+    justify-content: center;
+    text-align: center;
+}
+.demo8 {
+    margin: 30px;
+    padding: 10px;
+    border: 3px solid blue;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    box-shadow: 10px 10px 10px  gray;
+    text-decoration: underline;
+}
+.demo8a {
+    margin: 30px;
+    padding: 10px;
+    border: 3px solid black;
+    font-size: 15px;
+    color: white;
+    background-color: blue;
+    box-shadow: 10px 10px 10px  gray;
+    text-decoration: underline;
+}
+.demo9 {
+    margin-top: 15px;
+    color: white;
+    background-color: red;
+}
+.demo10 {
+    display: flex;
+    justify-content: space-between;
+}
+.demo11 {
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: rgba(235, 229, 229, 0.925);
+}
+.demo12 {
+    background-color: red;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+}
+.hdr {
+    text-align: center;
+    text-decoration: underline;
+}
+.bgc {
+    background-color: lightgray;
+}
+.bold {
+    font-weight:bold;
+}
+.italic {
+    font-style: italic;
+}
+.mrt {
+    margin-right: 20px;
+}
+.cen {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.pad {
+    padding: 10px;
+}
+.blue {
+    color:blue;
+    text-align: center;
+}
+div > span {
+font-weight: bold;
+}
+
+tr > th {
+    padding: 10px;
+    border: 2px solid black;
+}
+tr > td {
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+
+}
+
